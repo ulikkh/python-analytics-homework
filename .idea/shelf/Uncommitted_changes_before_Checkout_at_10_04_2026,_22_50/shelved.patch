@@ -1,0 +1,15 @@
+Index: analysis.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import pandas as pd\ndata = {\"city\": [\"Kyiv\", \"Lviv\", \"Odesa\"], \"sales\": [1200, 950, 500]}\ndf = pd.DataFrame(data)\nprint(\"Продажі по містах:\")\nprint(df)\nprint(\"Середнє значення:\", df[\"sales\"].mean())\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/analysis.py b/analysis.py
+--- a/analysis.py	(revision d19de662933621fcbaadbc81e3a2d9955ec132bd)
++++ b/analysis.py	(date 1775849788848)
+@@ -4,3 +4,4 @@
+ print("Продажі по містах:")
+ print(df)
+ print("Середнє значення:", df["sales"].mean())
++
