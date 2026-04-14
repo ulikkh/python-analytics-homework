@@ -206,6 +206,7 @@
       <updated>1776200951485</updated>
     </task>
     <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,5 +256,6 @@
     <MESSAGE value="added analysis file" />
     <MESSAGE value="temporary title change" />
     <option name="LAST_COMMIT_MESSAGE" value="temporary title change" />
+    <option name="LAST_COMMIT_MESSAGE" value="added analysis file" />
   </component>
 </project>
