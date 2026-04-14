@@ -182,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775853124189</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added analysis file">
+      <option name="closed" value="true" />
+      <created>1776199210006</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776199210006</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,6 +237,7 @@
     <option name="MARK_IGNORED_AS_EXCLUDED" value="true" />
     <MESSAGE value="add analysis file" />
     <MESSAGE value="update Lviv sales to 950" />
-    <option name="LAST_COMMIT_MESSAGE" value="update Lviv sales to 950" />
+    <MESSAGE value="added analysis file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added analysis file" />
   </component>
 </project>
