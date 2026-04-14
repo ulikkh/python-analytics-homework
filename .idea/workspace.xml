@@ -38,17 +38,24 @@
     &quot;assignee&quot;: &quot;ulikkh&quot;
   }
 }</component>
-  <component name="GitHubPullRequestState">{
-  &quot;prStates&quot;: [
+  <component name="GitHubPullRequestState"><![CDATA[{
+  "prStates": [
     {
-      &quot;id&quot;: {
-        &quot;id&quot;: &quot;PR_kwDOR_DfLs7ReJ35&quot;,
-        &quot;number&quot;: 1
+      "id": {
+        "id": "PR_kwDOR_DfLs7ReJ35",
+        "number": 1
       },
-      &quot;lastSeen&quot;: 1775850259270
+      "lastSeen": 1775850259270
+    },
+    {
+      "id": {
+        "id": "PR_kwDOR_DfLs7Sb2jc",
+        "number": 2
+      },
+      "lastSeen": 1776200888834
     }
   ]
-}</component>
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/ulikkh/python-analytics-homework.git&quot;,
@@ -73,25 +80,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.analysis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.analysis.py.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.analysis.executor": "Run",
+    "Python.analysis.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature/update-sales-rejected",
+    "settings.editor.selected.configurable": "vcs.Git"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.analysis.py">
     <configuration name="analysis" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python-analytics-homework" />
@@ -190,6 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776199210006</updated>
     </task>
+    <task id="LOCAL-00005" summary="temporary title change">
+      <option name="closed" value="true" />
+      <created>1776200951485</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776200951485</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
@@ -238,6 +254,8 @@
     <MESSAGE value="add analysis file" />
     <MESSAGE value="update Lviv sales to 950" />
     <MESSAGE value="added analysis file" />
+    <MESSAGE value="temporary title change" />
+    <option name="LAST_COMMIT_MESSAGE" value="temporary title change" />
     <option name="LAST_COMMIT_MESSAGE" value="added analysis file" />
   </component>
 </project>
